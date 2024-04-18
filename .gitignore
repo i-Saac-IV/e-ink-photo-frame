@@ -1,0 +1,5 @@
+# Files to ignore
+*.epf
+*.s#*
+*.b#*
+TEMPLATE.ino
